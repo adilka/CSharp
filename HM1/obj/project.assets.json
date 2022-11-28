@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IMPERATOR\\Desktop\\Folder\\GB_HomeWorks\\C#_HW\\CSharp\\HM1\\HM1.csproj",
+      "projectUniqueName": "C:\\Users\\IMPERATOR\\Desktop\\Folder\\GB_HomeWorks\\C#_HW\\HomeWorks\\CSharp\\HM1\\HM1.csproj",
       "projectName": "HM1",
-      "projectPath": "C:\\Users\\IMPERATOR\\Desktop\\Folder\\GB_HomeWorks\\C#_HW\\CSharp\\HM1\\HM1.csproj",
+      "projectPath": "C:\\Users\\IMPERATOR\\Desktop\\Folder\\GB_HomeWorks\\C#_HW\\HomeWorks\\CSharp\\HM1\\HM1.csproj",
       "packagesPath": "C:\\Users\\IMPERATOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IMPERATOR\\Desktop\\Folder\\GB_HomeWorks\\C#_HW\\CSharp\\HM1\\obj\\",
+      "outputPath": "C:\\Users\\IMPERATOR\\Desktop\\Folder\\GB_HomeWorks\\C#_HW\\HomeWorks\\CSharp\\HM1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IMPERATOR\\AppData\\Roaming\\NuGet\\NuGet.Config"

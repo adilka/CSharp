@@ -1,21 +1,23 @@
-﻿//Моя первая решенная задача
+﻿/* TASK 2
 Console.Clear();
-Console.Write("Vvedite Pervoe Chislo: ");
-Console.Write("Vvedite Vtoroe Chislo: ");
+Console.Write("Введите числа: " );
+
 
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 
 
 
- if (b * b == a){
 
- Console.WriteLine("yes");
- }
- else
- {
-    Console.WriteLine("NO");
+ if (a > b){
+
+ Console.WriteLine( a );
+ 
  }
 
- //Hello Dears!
- //Yeap
+ if (b > a ){
+ 
+ Console.WriteLine ( b );
+ 
+ }
+ */
