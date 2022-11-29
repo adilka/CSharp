@@ -60,6 +60,7 @@ int b = Convert.ToInt32(Console.ReadLine());
  }
  */
 
+ /*
  Console.Clear();
  Console.Write("Введите число ");
 
@@ -71,3 +72,4 @@ int b = Convert.ToInt32(Console.ReadLine());
    }
    
  }
+ */
