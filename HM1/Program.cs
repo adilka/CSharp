@@ -60,7 +60,7 @@ int b = Convert.ToInt32(Console.ReadLine());
  }
  */
 
- /*
+ /* TASK 8
  Console.Clear();
  Console.Write("Введите число ");
 
