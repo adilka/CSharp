@@ -78,11 +78,14 @@ int b = Convert.ToInt32(Console.ReadLine());
 
 Console.Clear();
 
-Console.Write("Введите 1-ое число: ");
+Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите 2-ое число: ");
+Console.Write("Введите число: ");
 int m = Convert.ToInt32(Console.ReadLine());
-if (n % m == 0)
-    Console.WriteLine("Кратно");
+
+if (n * n == m ){
+    if (m * m == n)
+    Console.WriteLine("yes");
+}
 else
-    Console.WriteLine($"Не кратно, остаток {n % m}");
+    Console.WriteLine($"Не кратно");
