@@ -88,4 +88,4 @@ if (n * n == m ){
     Console.WriteLine("yes");
 }
 else
-    Console.WriteLine($"Не кратно");
+    Console.WriteLine($"no");
